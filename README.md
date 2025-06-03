@@ -2,7 +2,7 @@
 
 ## Objective
 
-In this tutorial guides you through setting up a secure and functional AWS network environment. You will learn how to:
+In this tutorial I will guide you through setting up a secure and functional AWS network environment. You will learn how to:
 * Create a Virtual Private Cloud (VPC) with public and private subnets.
 * Establish internet connectivity for instances in a private subnet using a NAT instance.
 * Securely access private instances via a jump box (bastion host) in the public subnet.
