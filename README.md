@@ -2,7 +2,7 @@
 
 ## Objective
 
-This tutorial guides you through setting up a secure and functional AWS network environment. You will learn how to:
+In this tutorial guides you through setting up a secure and functional AWS network environment. You will learn how to:
 * Create a Virtual Private Cloud (VPC) with public and private subnets.
 * Establish internet connectivity for instances in a private subnet using a NAT instance.
 * Securely access private instances via a jump box (bastion host) in the public subnet.
@@ -408,7 +408,8 @@ Now that you are on the `Final-Instance` in the private subnet, verify internet 
 
 ## Conclusion
 
-Congratulations! You have successfully deployed a robust and secure AWS network architecture that demonstrates:
+If you followed all the steps above you have successfully deployed a robust and secure AWS network architecture that demonstrates:
+
 * VPC and subnet segmentation.
 * Internet access for private resources via a NAT instance.
 * Secure administration of private instances using a jump box.
@@ -417,4 +418,4 @@ This setup is a fundamental pattern for many secure cloud deployments.
 
 ---
 
-**Author:** [Your Name/GitHub Handle]
+**Author:** Abhinav Sharma/AbhiDS91]
